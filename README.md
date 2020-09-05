@@ -5,7 +5,7 @@
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://task-planner-ieti-lab3.herokuapp.com/)
 
 ## Azure
-https://taskplanner.z22.web.core.windows.net/
+https://sarahieti.z13.web.core.windows.net/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
